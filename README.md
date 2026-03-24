@@ -11,6 +11,7 @@
   <a href="https://zipinnovate.in"><img src="https://img.shields.io/badge/Zip_Innovate-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/singhdaksh7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:singhdaksh9760@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://daksh-portfolio-beta.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6C63FF&height=80&text=🚀%20VISIT%20MY%20PORTFOLIO&fontSize=24&fontColor=ffffff&fontAlignY=50" width="100%"/></a>
 </p>
 
 
