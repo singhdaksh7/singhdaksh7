@@ -126,13 +126,11 @@ const spaceExplorer = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhdaksh7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=a9b1d6&ring_color=6C63FF&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=singhdaksh7&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=ffffff&dates=a9b1d6"/>
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=singhdaksh7&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=ffffff&dates=a9b1d6"/>
 </p>
-
 <p align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdaksh7&layout=compact&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=a9b1d6&langs_count=8"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhdaksh7&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area_color=6C63FF&area=true&hide_border=true&custom_title=📡%20Commit%20Signal%20Activity" width="95%"/>
 </p>
