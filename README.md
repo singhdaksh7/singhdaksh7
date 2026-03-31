@@ -140,14 +140,14 @@ const spaceExplorer = {
 <h2 align="center">🏢 Command Center</h2>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
 ║            🏢  Z I P   I N N O V A T E   T E C H            ║
-║         ── Building the Future of Campus & Fintech ──        ║
-║                                                              ║
-║   🌐 zipinnovate.in    💸 PAY-KASH    🎓 CampusPay          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+║         ── Building the Future of Campus & Fintech ──       ║
+║                                                             ║
+║   🌐 zipinnovate.in    💸 PAY-KASH    🎓 CampusPay        ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 ---
