@@ -144,7 +144,7 @@ const spaceExplorer = {
 ║                                                             ║
 ║            🏢  Z I P   I N N O V A T E   T E C H            ║
 ║         ── Building the Future of Campus & Fintech ──       ║
-║                                                             ║
+║                                                            ║
 ║   🌐 zipinnovate.in    💸 PAY-KASH    🎓 CampusPay        ║
 ║                                                             ║
 ╚═════════════════════════════════════════════════════════════╝
