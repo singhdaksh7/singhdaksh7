@@ -97,6 +97,7 @@ const spaceExplorer = {
 <p align="center"><i>97%+ Accuracy — Detects 26 diseases across 14 crops using EfficientNetB0. Grad-CAM heatmaps, PDF reports & prediction history.</i></p>
 
 <p align="center">
+  <a href="https://huggingface.co/spaces/Dakshsingh9760/ZIP-FASAL"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-6C63FF?style=for-the-badge"/></a>&nbsp;
   <a href="https://github.com/singhdaksh7/plant-disease-detector"><img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
